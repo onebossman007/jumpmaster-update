@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.1",
-  "download_link": "https://여기에_EXE주소",
-  "message": "최신버전입니다"
+    "latest_version": "1.0.1",
+    "download_url": "https://github.com/onebossman007/jumpmaster-license/releases/download/v1.0.1/JumpMaster.exe",
+    "message": "자동 업데이트"
 }
