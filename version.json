@@ -1,5 +1,6 @@
 {
-    "latest_version": "1.2.8",
-    "download_url": "https://github.com/onebossman007/jumpmaster-update/releases/download/v1.2.8/transition_updater.exe",
-    "message": "zip전환"
+  "latest_version": "1.2.8",
+  "download_url": "https://github.com/onebossman007/jumpmaster-update/releases/download/v1.2.8/transition_updater.exe",
+  "zip_url": "https://github.com/onebossman007/jumpmaster-update/releases/download/v1.2.8/JumpMaster_v1.2.8.zip",
+  "notes": "ZIP 배포 안정화"
 }
